@@ -1,16 +1,16 @@
 # Pertemuan-Tiga-PBO-2-9-2025
 
-# Method Overloading
+# METHOD OVERLOADING
 - Method Overloading adalah method yang memiliki nama method yang sama dengan method lainnya yang ada di class, namun parameternya berbeda.
 - Method Overloading digunakan dengan tujuan untuk menghindari kode yang berlebihan.
 - Method Overloading tidak perlu membuat method yang berbeda untuk fungsi yang mirip.
 
-# Method Overriding
+# METHOD OVERRIDING
 - Method Overriding adalah method yang mempunyai nama dan parameter yang sama, namun perintah yang dijalankan berbeda.
 - Method Overriding membuat ulang method yang sudah ada pada Superclass lalu ditulis lagi pada Subclass.
 - Method Overriding membuat turunan yang diturunkan pada Subclass bisa diganti atau diperluas.
 
-# Steps Project
+# STEPS PROJECT
 - Membuat rancangan diagram
 - Membuat kelas induk atau abstract class "Kendaraan" sebagai Superclass lalu memasukkan atribut. Setelah itu membuat abstrac class "Mesin" dan "Transportasi_Umum".
 - Membuat interface class "bisa_terbang", "bisa_dikendarai" dan "bisa_mengapung" untuk menjelaskan ciri khas pesawat.
